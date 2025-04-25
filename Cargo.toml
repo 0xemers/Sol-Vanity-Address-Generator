@@ -1,0 +1,9 @@
+[package]
+name = "solana_vanity"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rayon = "1.10.0"
+solana-sdk = { version = "1.18.26", features = ["full"] }  # 必须启用完整功能
+base58 = "0.2.0"
