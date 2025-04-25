@@ -22,6 +22,7 @@ RUSTFLAGS="-C target-cpu=native -C opt-level=3 -C lto=yes" cargo build --release
 
 # 验证安装
 ./target/release/solana-vanity --version
+···
 
 ## 🚀 使用方法
 
