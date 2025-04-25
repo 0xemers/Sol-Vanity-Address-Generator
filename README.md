@@ -1,5 +1,5 @@
 # Solana Vanity Address Generator 🔍
-（被三线 bot 盗取生成定制钱包里的所有 sol 后决定自己写一个本地的 T.T） 
+（被三线 bot 盗取生成定制钱包里的所有 sol 后决定不能偷懒自己写一个本地的 T.T） 
 
 **生成定制化 Solana 地址的安全工具 | 支持多线程/GPU加速**
 
