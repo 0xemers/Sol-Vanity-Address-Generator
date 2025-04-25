@@ -15,7 +15,6 @@
 
 ### 快速安装
 ```bash
-# 安装官方环境
 git clone https://github.com/solana-labs/solana.git
 
 # 编译优化版 (Apple Silicon)
@@ -29,4 +28,3 @@ RUSTFLAGS="-C target-cpu=native -C opt-level=3 -C lto=yes" cargo build --release
 ### 基础命令
 ```bash
 cargo run --release -- --prefix YOU --suffix XX
-```
