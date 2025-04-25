@@ -28,7 +28,7 @@ fn main() {
             println!("\n✅ 生成耗时: {:.2}s", start.elapsed().as_secs_f32());
             println!("地址: {}", address);
             // println!("私钥: {}...{}", &private_key[..12], &private_key[private_key.len()-6..]);
-            // 修改后（显示完整私钥）
+            // 显示完整私钥
             println!("私钥: {}", private_key); // 完整显示私钥
         }
         None => println!("未找到匹配地址"),
