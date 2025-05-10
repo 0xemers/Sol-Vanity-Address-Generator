@@ -5,5 +5,6 @@ edition = "2021"
 
 [dependencies]
 rayon = "1.10.0"
-solana-sdk = { version = "1.18.26", features = ["full"] }  # 必须启用完整功能
+solana-sdk = { version = "1.18.26", features = ["full"] } 
 base58 = "0.2.0"
+clap = { version = "4.0", features = ["derive"] }
