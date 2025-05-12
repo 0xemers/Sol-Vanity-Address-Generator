@@ -39,7 +39,7 @@
 2. 克隆本仓库
   ```bash
   git clone https://github.com/basedeliox/Sol-Vanity-Address-Generator.git
-  cd solana-vanity
+  cd Sol-Vanity-Address-Generator
   ```
 3. 编译和运行
   ```bash
