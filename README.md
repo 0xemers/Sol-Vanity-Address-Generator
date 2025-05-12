@@ -38,7 +38,7 @@
   ```
 2. 克隆本仓库
   ```bash
-  git clone https://github.com/yourusername/solana-vanity.git
+  git clone https://github.com/basedeliox/solana-vanity.git
   cd solana-vanity
   ```
 3. 编译和运行
