@@ -51,8 +51,8 @@
 ## 示例
 ```bash
 git clone https://github.com/solana-labs/solana.git
-git clone https://github.com/yourusername/solana-vanity.git
-cd solana-vanity
+git clone https://github.com/basedeliox/Sol-Vanity-Address-Generator.git
+cd Sol-Vanity-Address-Generator
 cargo build --release
 # 搜索以"ETH"开头且以"UP"结尾的地址，并使用24个线程搜索
 cargo run --release -- -prefix ETH -suffix UP --threads 24
